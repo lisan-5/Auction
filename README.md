@@ -1,4 +1,4 @@
-Full-Stack Art Auction Platform (React & Laravel)
+Full-Stack Auction Platform (React & Laravel)
 
 A robust, API-first art auction platform built with Laravel 12 on the backend and React on the frontend, designed to provide a seamless experience for artists, bidders, and administrators. Users can register with email verification, browse auctions, place bids in real-time, and securely process payments through Chapa. Artists can create, update, and manage their own auctions, complete with multiple image uploads.
 
